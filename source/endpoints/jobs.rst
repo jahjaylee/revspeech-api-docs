@@ -7,7 +7,7 @@ Jobs
 ``GET /jobs/{id}``
 *******************
 
-Gets an existing transcription :ref:`job <job-model>` by id
+Gets a existing transcription :ref:`job <job-model>` by id
 
 **CURL Examples**
 
